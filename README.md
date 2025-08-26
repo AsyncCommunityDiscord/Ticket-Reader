@@ -9,6 +9,8 @@
 All the projects in the <code>GravenDev</code> organisation are used by the discord server <code>
 discord.gg/graven</code> both by the moderators and the members.
 Most of the contributors are part of the staff but the members are also allowed to contribute.
+
+⚠️ **Looking for the RedsTom's repository?** Head over [here](https://github.com/RedsTom/Ticket-Reader)
   
 ---
 ## Global informations
